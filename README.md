@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Main NativeScript Bloggers](https://www.nativescript.org/resources#nativescript-bloggers)
 - [NS Bloggers](http://www.nsbloggers.com/feeds.cfm) - Extensive list of NativeScript bloggers maintained by community.
 - [Peter Messenger](http://stonecourier.blogspot.be/) - Senior developer at [KipMcGrath Education Centres](http://www.kipmcgrath.com/). Skilled Silverlight, Web and Mobile application developer.
+- [MultiShiv19](https://shiv19.com) - NativeScript Dev Champion
 
 <br>
 
